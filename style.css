@@ -1,0 +1,121 @@
+body {
+    font-family: "Sofia", sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    height: 100vh;
+    background-color: #ffffff21;
+}
+
+.square {
+    font-family: "Sofia", sans-serif;
+    background-color: #ffffff;
+    width: 90%;
+    height: 97%;
+    border-radius: 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+
+}
+
+.navbar {
+    display: flex;
+
+}
+
+#left {
+    font-family: "Sofia", sans-serif;
+    font-size: 75px;
+    margin: 10px 10px;
+
+
+}
+
+#right {
+    margin: 20px 325px;
+    font-family: "Sofia", sans-serif;
+    font-size: 25px;
+}
+
+#right ul {
+    display: flex;
+
+
+
+
+
+}
+
+#right ul li {
+    list-style: none;
+    margin: 0px -45px;
+
+}
+
+a {
+    
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    color: black;
+    padding: 0px 70px;
+    margin: 0px 10px;
+}
+#btn{
+    background-color: transparent;
+    border: 2px solid green;
+    border-radius: 5px;
+    padding: 10px 25px;
+}
+#text1{
+    font-family: "Sofia", sans-serif;
+    font-size: 75px;
+    margin: 10px 10px;
+
+}
+#text2{
+    margin: 10px 10px;
+}
+.icons {
+    display: flex;
+    margin: 10px -60px;
+}
+.icons #gstore{
+    margin: 32px -150px;
+    padding: 10px;
+}
+.box{
+    font-family: "Sofia", sans-serif;
+    background-color: transparent;
+    width: 400px;
+    height:200px;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 10px 0px;
+    padding: 1px 30px;
+    color: black;
+
+}
+
+
+ .mainright #image {
+    float: right;
+    margin-top: -630px;
+    padding: 10px 150px;
+    border-radius: 50px;
+}
+#text3{
+    font-size: 30px;
+    margin: 15px 5px ;
+
+}
+#text4{
+    font-size: 15px;
+    margin: 30px 5px ;
+}
+#link a{
+    color: black;
+    font-size: 25px;
+    text-decoration: underline;
+}
